@@ -1,0 +1,6 @@
+{
+    "API_KEY":"Your API key here",
+    "last_sync":"1970-01-01T00:00:00",
+    "include_audio":true,
+    "deck_name":"日本語::WaniKani"
+}
